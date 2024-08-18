@@ -1,0 +1,171 @@
+{
+  "Header": {
+    "title": "ASTEC",
+    "paragraph": "ASTEC stands as a celestial haven, a space club that not only provides a platform for ardent space enthusiasts to showcase their boundless passion and skills but also extends a unique opportunity for them to contribute to the ever-expanding realm of space technology, both within the vibrant landscape of India and on an international scale."
+  },
+  "About": {
+    "paragraph": "Our aim is to win various competitions conducted by organizations like ISRO and NASA, as well as hackathons like the Smart India Hackathon. Achieving success at both national and international levels, these victories serve as stepping stones in our careers, facilitating entry into the space industry. We aspire to contribute to the space sector, not only for personal success butalso to serve our nation",
+    "Why": [
+      "Expert Leadership",
+      "Innovative Programs",
+      "Inspiring Events",
+      "Networking Opportunities"
+    ],
+    "Why2": [
+      "Collaborative Projects",
+      "Educational Workshops",
+      "Supportive Community",
+      "Community Engagement"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    },
+    {
+      "title": "Gangadhar Jami",
+      "largeImage": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "smallImage": "https://space-club.onrender.com/img/22P35A0384.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "https://space-club.onrender.com/img/nit.jpg",
+      "name": "NIT-AGARTALA",
+      "text": "SAE Collegiate Club of NIT Agartala was founded to participate in various SAE competitions like mBAJA, Aero Design Challenge, eBAJA, etc.It continues to be a very active club of the college with over 50 participants."
+    },
+    {
+      "icon": "https://space-club.onrender.com/img/CHANDIGHAR_UNIVERSITY.jpg",
+      "name": "CHANDIGHAR UNIVERSITY",
+      "text": "Chandigarh University Astronomy Club (CUAC) is a portal to the universe. We are a community bound by our love for the stars, planets, and the mysteries that surround the universe. The club offers something for everyone, from thrilling telescope observations to fascinating discussions about the latest space discoveries. We here at cuac promise to deliver fascination, exploration, excitement, and commitment to space explorers and enthusiasts alike."
+    },
+    {
+      "icon": "https://space-club.onrender.com/img/rit.jpg",
+      "name": "RIT COLLEGE",
+      "text": "Space Club, RIT is a family of Innovative, inquisitive, bright, aspiring engineering students of Rajarambapu Institute of Technology having interest in Space. Students here work on launching Rockets, establishing wireless connections with satellites and International space station, and currently working on the project of making their own student satellite."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "https://space-club.onrender.com/img/Seshareddy_Nallamilli.jpg",
+      "text": "\"I believe in the philosophy of thought, word and deed as eternal which made Aditya what it is today.\"",
+      "name": "Seshareddy Nallamilli"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/Dr_Satish_Reddy_Nallamilli.jpg",
+      "text": "\"Finally a desire can change nothing, a decision can change something but a determination can change everything. \"",
+      "name": "Dr Satish Reddy Nallamilli"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/deeepakreddy.jpg",
+      "text": "\"The significant problems we face cannot be solved at the same level of thinking we were at when we created them.\"",
+      "name": "Sri N K Deepak Reddy"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/Dr_M_Sreenivasa_Reddy.jpg",
+      "text": "\"The whole purpose of education is to turn mirrors into windows.\"",
+      "name": "Dr. M Sreenivasa Reddy"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/dola.jpg",
+      "text": "\"The road to excellence is toughest, roughest and steepest in the Universe. The world requires and honors only excellence.\"",
+      "name": "Dola Sanjay S"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/Dr_Ramesh_Adireddy.jpg",
+      "text": "\"Those who educate children well are more to be honored than parents, for these only gave life, those the art of living well.\"",
+      "name": "Dr.Ramesh Adireddy"
+    }
+  ],
+  "Team": [
+    {
+      "img": "https://space-club.onrender.com/img/rohit.jpg",
+      "name": "Rohit Avalareddy",
+      "job": "Founder"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/samu.jpg",
+      "name": "Samuel Binnu",
+      "job": "Project Manager"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/22P35A0384.jpg",
+      "name": "Gangadhar Jami",
+      "job": "Senior Web Developer"
+    },
+    {
+      "img": "https://space-club.onrender.com/img/gowtham.png",
+      "name": "GOWTHAM KARTHIKEYA",
+      "job": "Software Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Aditya Nagar, ADB Road,Surampalem,Pin:533437,East-Godavari District,Andhra Pradesh,INDIA.",
+    "phone": "+917396376944",
+    "email": " astec@acoe.edu.in",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/?lang=en-in",
+    "youtube": "https://www.youtube.com/",
+    "instagram": "https://www.instagram.com/astec.in?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "linkedin": "https://www.linkedin.com/in/aditya-space-technology-enthusiats-and-collaborators-5413422b4/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Monthly Magazine",
+      "text": "The activity of creating a monthly magazine aims to enhance writing, journaling, and research skills, as well as promote teamwork. The magazine, prepared by the team, will be submitted to all the campuses' libraries and online platforms. Content creators involved in this initiative can kickstart their careers in journalism."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Space Talks",
+      "text": "This is an opportunity for space enthusiasts who want to share their passion and knowledge with others. Space talks functions similarly to TED Talks, where a speaker and a team choose a topic, prepare a presentation, and present it in front of all the students and faculty. This activity aims to enhance their communication and presentation skills, garnering recognition and appreciation."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "School Campaigns",
+      "text": "The school campaign is an activity to raise awareness about space technology and guide students on starting their careers after completing the 10th grade. This initiative aims to assist school students in launching their careers in the space sector. By conducting this campaign, we hope to help at least one person reach their goals."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Quiz",
+      "text": "Quizzes will be conducted based on the magazine content, and the winners may receive certification from NIT Agartala Club and Chandigarh University, along with prize money. This activity aims to encourage and create awareness about space technology. It will be a fun activity."
+    }
+  ]
+}
